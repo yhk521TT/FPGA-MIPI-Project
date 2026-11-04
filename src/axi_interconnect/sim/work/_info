@@ -1,0 +1,165 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/infinix/IP/axi_interconnect_v1.0(private)/sim
+varbiter
+Z1 !s110 1640146497
+!i10b 1
+!s100 15ZlJQ3Of9AXenGClC2iH3
+ITDllkK1>gk_ih5N`K`eo`0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1618194880
+8../rtl/arbiter.v
+F../rtl/arbiter.v
+L0 3
+Z3 OL;L;10.5;63
+r1
+!s85 0
+31
+Z4 !s108 1640146497.000000
+Z5 !s107 ../sim/tb/axi_ram_v1.0/axi_ram.v|../sim/tb/tb_top.v|../sim/tb/axi_master_gen.v|../rtl/priority_encoder.v|../rtl/axi_interconnect.v|../rtl/arbiter.v|
+Z6 !s90 -reportprogress|300|-f|vlog-rtl.list|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vaxi_interconnect
+R1
+!i10b 1
+!s100 ]A_S^Y37iKTFLdLb^L@1k0
+I;c_g77=JC`08i[SQ1Z>IR0
+R2
+R0
+w1618194860
+8../rtl/axi_interconnect.v
+F../rtl/axi_interconnect.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+vaxi_master_gen
+R1
+!i10b 1
+!s100 h<^WRZbJec6U5OIDGRhk^2
+IN0dmUDTMA`22b>P8?e?k11
+R2
+R0
+w1640141008
+8../sim/tb/axi_master_gen.v
+F../sim/tb/axi_master_gen.v
+Z9 L0 19
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+vaxi_ram
+R1
+!i10b 1
+!s100 6jDG5h1NcFY`gle2<1M4i3
+I7ciU;EOci^lgajG@2fRI?0
+R2
+R0
+Z10 w1618193881
+Z11 8../sim/tb/axi_ram_v1.0/axi_ram.v
+Z12 F../sim/tb/axi_ram_v1.0/axi_ram.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+vmem_u
+R1
+!i10b 1
+!s100 K`balkT>LIGN[_YQm:W0]3
+I]LmnN5ZA<FGKC7CkodCKk2
+R2
+R0
+R10
+R11
+R12
+L0 338
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+vpriority_encoder
+R1
+!i10b 1
+!s100 G5gH?KI4FjkWihj4i0AIF0
+I<`bbaWzUc03@dYh<492N10
+R2
+R0
+w1618194896
+8../rtl/priority_encoder.v
+F../rtl/priority_encoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+vtb_top
+R1
+!i10b 1
+!s100 THL7cE:oQBYm=8@Qb2MjM2
+I5lW4[gW?hQK]]KeR9YI1S2
+R2
+R0
+w1614137237
+8../sim/tb/tb_top.v
+F../sim/tb/tb_top.v
+R9
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 0
+R7
+R8
+Ttb_top_opt
+R1
+VJ9FEKOzH42cWB9]oSQ?A10
+04 6 4 work tb_top fast 0
+o+acc=npr
+R8
+ntb_top_opt
+OL;O;10.5;63

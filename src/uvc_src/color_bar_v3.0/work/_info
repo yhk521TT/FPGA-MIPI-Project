@@ -1,0 +1,166 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/customer_Prj/novastar/20230428-1413/Ti60F225_devkit_v6_3.16/color_bar_v2.0
+T_opt
+!s110 1687690602
+VP235_VBDgZOf>hERWj>?30
+Z2 04 12 4 work color_bar_tb fast 0
+=1-3cf011750698-64981d6a-1e9-82e0
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R1
+T_opt1
+!s110 1746670018
+VY@VfR3[G_Ig8`RA`M;;A=2
+R2
+=1-5847ca77e289-681c11c2-10d-3600
+!s124 OEM100
+R3
+R4
+n@_opt1
+OL;O;2021.1;73
+vcolor_bar_rgb
+Z5 !s110 1746670016
+!i10b 1
+!s100 jeR[Soc^C;fKNTX=8G;M_2
+IkAe>]V?oe:Wdj?E9_>0Tm3
+Z6 dE:/FPGA_Demo/01_Ti181j484/04_ti180j484_2p5G_mipi_loopback/02_DSI_XL_Ti180J484_LCD_demo_1G_v5/rtl/color_bar_v2.0
+w1746669454
+8./color_bar_rgb.v
+F./color_bar_rgb.v
+!i122 12
+L0 2 354
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z9 !s108 1746670016.000000
+!s107 ./color_bar_rgb.v|
+!s90 -reportprogress|300|./color_bar_rgb.v|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vcolor_bar_tb
+R5
+!i10b 1
+!s100 3`ZMZWR1N]lDa=4V7c4eU3
+IfNC@_PnA87JH5JdjoEgHc1
+R6
+w1746669982
+8./color_bar_tb.v
+F./color_bar_tb.v
+!i122 13
+L0 2 118
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 ./color_bar_tb.v|
+!s90 -reportprogress|300|./color_bar_tb.v|
+!i113 0
+R10
+R4
+vlength_calc
+R5
+!i10b 1
+!s100 2NUVVjBh_`55TKnoAai>80
+I0<j:@88fFPPnFBB=OLQ2S2
+R6
+Z11 w1686737918
+Z12 8./timing_detec.v
+Z13 F./timing_detec.v
+!i122 15
+L0 164 63
+R7
+R8
+r1
+!s85 0
+31
+R9
+Z14 !s107 ./timing_detec.v|
+Z15 !s90 -reportprogress|300|./timing_detec.v|
+!i113 0
+R10
+R4
+vsep2par
+R5
+!i10b 1
+!s100 m@KbWgC9]>hAPX5RLPIe23
+IL6PlYco;ZjY34NZD0`a<f0
+R6
+w1687689668
+Z16 8./ser2par_pixel.v
+Z17 F./ser2par_pixel.v
+!i122 14
+L0 2 29
+R7
+R8
+r1
+!s85 0
+31
+R9
+Z18 !s107 ./ser2par_pixel.v|
+Z19 !s90 -reportprogress|300|./ser2par_pixel.v|
+!i113 0
+R10
+R4
+vser2par_pixel
+!s110 1686848296
+!i10b 1
+!s100 CS`P6obmZ]=IeQkfX?TB?1
+Io7OCT;JLV=c^:Hg28HH6F1
+R7
+R1
+w1686848288
+R16
+R17
+L0 3
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1686848296.000000
+R18
+R19
+!i113 0
+R10
+R4
+vtiming_detec
+R5
+!i10b 1
+!s100 KiZ^FR<jC<zG;i`IhL<lY1
+I1a?Az0@FYACRDJ;:hJOh52
+R6
+R11
+R12
+R13
+!i122 15
+L0 2 157
+R7
+R8
+r1
+!s85 0
+31
+R9
+R14
+R15
+!i113 0
+R10
+R4

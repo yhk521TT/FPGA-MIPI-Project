@@ -1,0 +1,21 @@
+
+# FPGA generated directories
+work_dbg/
+work_pnr/
+work_pt/
+work_syn/
+outflow/
+
+# Simulation waveforms
+*.vcd
+*.vpd
+*.fst
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Windows system files
+Thumbs.db
+.DS_Store
